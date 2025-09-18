@@ -1,9 +1,23 @@
 ---
-title: "assignment-3-xf242"
+title: "NTRES HW#3"
 ---
 
-This is a Quarto website.
+My name: Xiaotong Fei
 
+<<<<<<< HEAD
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+ 
+=======
+Link to my personal Github account: <https://github.com/LindOreoFrk>
 
-This is Emily O'Neil adding an edit to this website 
+My collaborator: Emily O'Neil
+
+![Polaroid by Stefanie Schneider](https://image.invaluable.com/housePhotos/Auctionata/52/570852/H4580-L77728566.jpg)
+>>>>>>> 6b923abd03ee3aa862684d2c1f9a712593d1f8fd
+
+This is Emily adding content to the website
+ 
+
+
+
+
