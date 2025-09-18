@@ -17,6 +17,8 @@ My collaborator: Emily O'Neil
 
 This is Emily adding content to the website
  
+conflict has been solved! 
+
 
 
 
