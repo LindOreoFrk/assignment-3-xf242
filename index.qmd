@@ -10,12 +10,6 @@ My collaborator: Emily O'Neil
 
 ![Polaroid by Stefanie Schneider](https://image.invaluable.com/housePhotos/Auctionata/52/570852/H4580-L77728566.jpg)
 
-
 This is Emily adding content to the website
- 
-conflict has been solved! 
 
-
-
-
-
+conflict has been solved!
