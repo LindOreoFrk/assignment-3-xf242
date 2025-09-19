@@ -11,10 +11,6 @@
     "href": "index.html",
     "title": "NTRES HW#3",
     "section": "",
-<<<<<<< HEAD
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\nThis is Emily O’Neil adding an edit to this website"
-=======
-    "text": "My name: Xiaotong Fei\nLink to my personal Github account: https://github.com/LindOreoFrk\nMy collaborator: Emily O’Neil\n\n\n\nPolaroid by Stefanie Schneider"
->>>>>>> 6b923abd03ee3aa862684d2c1f9a712593d1f8fd
+    "text": "My name: Xiaotong Fei\n&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD To learn more about Quarto websites visit https://quarto.org/docs/websites.\n======= Link to my personal Github account: https://github.com/LindOreoFrk\nMy collaborator: Emily O’Neil\n &gt;&gt;&gt;&gt;&gt;&gt;&gt; 6b923abd03ee3aa862684d2c1f9a712593d1f8fd\nThis is Emily adding content to the website\nconflict has been solved!"
   }
 ]
